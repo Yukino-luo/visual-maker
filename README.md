@@ -22,7 +22,7 @@ yarn run start
 
 ---
 
-[Visual Maker (yukino-luo.github.io)](https://yukino-luo.github.io/visual-maker/)
+[Visual Maker (vm.yukino-luo.com)](https://vm.yukino-luo.com/)
 
 # 功能及规划
 
