@@ -12,7 +12,7 @@
 ---
 
 ```bash
-git clone https://github.com/luoyangC/visual-maker.git
+git clone https://github.com/yukino-luo/visual-maker.git
 cd visual-maker
 yarn
 yarn run start
@@ -22,7 +22,7 @@ yarn run start
 
 ---
 
-[Visual Maker (luoyangc.github.io)](https://luoyangc.github.io/visual-maker/)
+[Visual Maker (yukino-luo.github.io)](https://yukino-luo.github.io/visual-maker/)
 
 # 功能及规划
 
@@ -48,4 +48,4 @@ yarn run start
 
 # UI 界面简介
 
-![https://raw.githubusercontent.com/luoyangC/visual-maker/main/public/image/ui.png](https://raw.githubusercontent.com/luoyangC/visual-maker/main/public/image/ui.png)
+![https://raw.githubusercontent.com/yukino-luo/visual-maker/main/public/image/ui.png](https://raw.githubusercontent.com/yukino-luo/visual-maker/main/public/image/ui.png)

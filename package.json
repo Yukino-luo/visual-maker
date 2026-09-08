@@ -1,9 +1,8 @@
 {
   "name": "visual-maker",
   "version": "0.2.0",
-  "homepage": "https://luoyangc.github.io/visual-maker/",
+  "homepage": "https://vm.yukino-luo.com",
   "description": "A visual page building project",
-  "author": "luoyang <luoyangc2233@gmail.com>",
   "scripts": {
     "start": "vite",
     "build": "vue-tsc --noEmit --skipLibCheck && vite build",

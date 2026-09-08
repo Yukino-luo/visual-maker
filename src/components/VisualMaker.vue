@@ -44,7 +44,7 @@
         <Preview v-model="showPreview" />
       </div>
     </el-main>
-    <el-footer class="vm-footer">Power by luoyang</el-footer>
+    <el-footer class="vm-footer">Power by Yukino-luo</el-footer>
   </el-container>
 </template>
 
@@ -75,7 +75,7 @@
     option.value = val
   }
   const toGitHub = () => {
-    window.open('https://github.com/luoyangC/visual-maker')
+    window.open('https://github.com/yukino-luo/visual-maker')
   }
   const undo = () => {
     useMessage({ mode: 'message', type: 'warning', message: '暂不支持' })
