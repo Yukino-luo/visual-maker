@@ -66,7 +66,7 @@ export class ImageWidget extends Widget {
         objectFit: 'fill'
       },
       props: {
-        src: '/visual-maker/thumb/image-example.png'
+        src: '/thumb/image-example.png'
       },
       attrConfigs: [
         {

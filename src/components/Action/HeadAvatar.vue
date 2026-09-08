@@ -19,7 +19,7 @@
 
   const initAvatar = () => {
     week.value = getWeekDate()
-    avatar.value = `/visual-maker/thumb/avatar-${week.value}.png`
+    avatar.value = `/thumb/avatar-${week.value}.png`
   }
 
   const handleAvatar = () => {
@@ -28,7 +28,7 @@
     } else {
       week.value++
     }
-    avatar.value = `/visual-maker/thumb/avatar-${week.value}.png`
+    avatar.value = `/thumb/avatar-${week.value}.png`
   }
 
   initAvatar()

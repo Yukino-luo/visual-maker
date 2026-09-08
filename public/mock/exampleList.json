@@ -5,7 +5,7 @@
     {
       "id": 0,
       "type": 2,
-      "icon": "/visual-maker/thumb/area-stack.png",
+      "icon": "/thumb/area-stack.png",
       "option": {
         "type": "chart",
         "lock": false,
@@ -132,7 +132,7 @@
     {
       "id": 1,
       "type": 2,
-      "icon": "/visual-maker/thumb/bar-stack.png",
+      "icon": "/thumb/bar-stack.png",
       "option": {
         "type": "chart",
         "lock": false,
@@ -284,7 +284,7 @@
     {
       "id": 2,
       "type": 2,
-      "icon": "/visual-maker/thumb/bar-polar-label-tangential.png",
+      "icon": "/thumb/bar-polar-label-tangential.png",
       "option": {
         "type": "chart",
         "lock": false,
@@ -342,7 +342,7 @@
     {
       "id": 3,
       "type": 2,
-      "icon": "/visual-maker/thumb/pie-borderRadius.png",
+      "icon": "/thumb/pie-borderRadius.png",
       "option": {
         "type": "chart",
         "lock": false,
@@ -411,7 +411,7 @@
     {
       "id": 4,
       "type": 2,
-      "icon": "/visual-maker/thumb/pie-roseType-simple.png",
+      "icon": "/thumb/pie-roseType-simple.png",
       "option": {
         "type": "chart",
         "lock": false,
@@ -474,7 +474,7 @@
     {
       "id": 5,
       "type": 2,
-      "icon": "/visual-maker/thumb/scatter-weight.png",
+      "icon": "/thumb/scatter-weight.png",
       "option": {
         "type": "chart",
         "lock": false,
@@ -1160,7 +1160,7 @@
     {
       "id": 6,
       "type": 1,
-      "icon": "/visual-maker/thumb/custom-widget-1.png",
+      "icon": "/thumb/custom-widget-1.png",
       "option": {
         "type": "custom",
         "lock": false,
@@ -1238,7 +1238,7 @@
                       "objectFit": "fill"
                     },
                     "props": {
-                      "src": "/visual-maker/thumb/avatar-1.png"
+                      "src": "/thumb/avatar-1.png"
                     },
                     "id": 14
                   },
@@ -1287,7 +1287,7 @@
     {
       "id": 7,
       "type": 1,
-      "icon": "/visual-maker/thumb/custom-widget-2.png",
+      "icon": "/thumb/custom-widget-2.png",
       "option": {
         "type": "custom",
         "lock": false,
@@ -1466,7 +1466,7 @@
                                           "objectFit": "fill"
                                         },
                                         "props": {
-                                          "src": "/visual-maker/thumb/avatar-1.png"
+                                          "src": "/thumb/avatar-1.png"
                                         },
                                         "id": 106
                                       },
@@ -1604,7 +1604,7 @@
                                           "objectFit": "fill"
                                         },
                                         "props": {
-                                          "src": "/visual-maker/thumb/avatar-6.png"
+                                          "src": "/thumb/avatar-6.png"
                                         },
                                         "id": 117
                                       },
@@ -1742,7 +1742,7 @@
                                           "objectFit": "fill"
                                         },
                                         "props": {
-                                          "src": "/visual-maker/thumb/avatar-5.png"
+                                          "src": "/thumb/avatar-5.png"
                                         },
                                         "id": 128
                                       },
@@ -2193,7 +2193,7 @@
     {
       "id": 8,
       "type": 1,
-      "icon": "/visual-maker/thumb/custom-widget-3.png",
+      "icon": "/thumb/custom-widget-3.png",
       "option": {
         "type": "custom",
         "lock": false,
@@ -2334,7 +2334,7 @@
                                   "objectFit": "fill"
                                 },
                                 "props": {
-                                  "src": "/visual-maker/thumb/avatar-1.png"
+                                  "src": "/thumb/avatar-1.png"
                                 },
                                 "id": 86
                               },
@@ -2472,7 +2472,7 @@
                                   "objectFit": "fill"
                                 },
                                 "props": {
-                                  "src": "/visual-maker/thumb/avatar-2.png"
+                                  "src": "/thumb/avatar-2.png"
                                 },
                                 "id": 97
                               },
@@ -2610,7 +2610,7 @@
                                   "objectFit": "fill"
                                 },
                                 "props": {
-                                  "src": "/visual-maker/thumb/avatar-3.png"
+                                  "src": "/thumb/avatar-3.png"
                                 },
                                 "id": 108
                               },
@@ -2748,7 +2748,7 @@
                                   "objectFit": "fill"
                                 },
                                 "props": {
-                                  "src": "/visual-maker/thumb/avatar-4.png"
+                                  "src": "/thumb/avatar-4.png"
                                 },
                                 "id": 119
                               },
@@ -2886,7 +2886,7 @@
                                   "objectFit": "fill"
                                 },
                                 "props": {
-                                  "src": "/visual-maker/thumb/avatar-5.png"
+                                  "src": "/thumb/avatar-5.png"
                                 },
                                 "id": 130
                               },
@@ -3024,7 +3024,7 @@
                                   "objectFit": "fill"
                                 },
                                 "props": {
-                                  "src": "/visual-maker/thumb/avatar-6.png"
+                                  "src": "/thumb/avatar-6.png"
                                 },
                                 "id": 141
                               },
@@ -3162,7 +3162,7 @@
                                   "objectFit": "fill"
                                 },
                                 "props": {
-                                  "src": "/visual-maker/thumb/avatar-7.png"
+                                  "src": "/thumb/avatar-7.png"
                                 },
                                 "id": 152
                               },
@@ -3223,7 +3223,7 @@
     {
       "id": 9,
       "type": 1,
-      "icon": "/visual-maker/thumb/custom-widget-4.png",
+      "icon": "/thumb/custom-widget-4.png",
       "option": {
         "type": "custom",
         "lock": false,
