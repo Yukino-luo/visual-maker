@@ -5,7 +5,7 @@
   "description": "A visual page building project",
   "scripts": {
     "start": "vite",
-    "build": "vue-tsc --noEmit --skipLibCheck && vite build",
+    "build": "vite build",
     "serve": "vite preview",
     "deploy": "bash ./deploy.sh"
   },

@@ -4,7 +4,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/visual-maker/',
   plugins: [vue()],
   resolve: {
     alias: [
